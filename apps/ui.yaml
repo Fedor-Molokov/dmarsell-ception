@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
       - name: ui
-        image: dmarsell/test-ui-for-argocd:2.0.0
+        image: dmarsell/test-ui-for-argocd:1.0.0
 
 ---
 apiVersion: v1
