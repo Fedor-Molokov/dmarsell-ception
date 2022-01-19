@@ -40,3 +40,4 @@ spec:
   selector:
     app: npuzzle
     tier: ui
+  type: NodePort
